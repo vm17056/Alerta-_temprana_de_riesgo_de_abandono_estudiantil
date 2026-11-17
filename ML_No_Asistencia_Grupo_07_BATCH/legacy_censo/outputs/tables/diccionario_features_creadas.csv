@@ -1,0 +1,9 @@
+﻿feature,descripcion,tipo
+edad_min,Edad mínima del grupo quinquenal,Numérica
+edad_max,Edad máxima del grupo quinquenal,Numérica
+edad_media,Punto medio del grupo quinquenal,Numérica
+nivel_educativo_aproximado,Proxy de sexto–noveno o bachillerato,Categórica
+es_bachillerato_aproximado,1 para 15–19; 0 para 10–14,Binaria
+codigo_departamento,Código extraído del nombre del departamento,Categórica
+grupo_geografico,Clave territorio departamento–municipio–distrito,Categórica/grupo
+tasa_nunca_asistio,Nunca asistió total / población total,Numérica/objetivo base

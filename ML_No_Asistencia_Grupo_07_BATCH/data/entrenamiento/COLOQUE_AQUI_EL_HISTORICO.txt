@@ -1,0 +1,8 @@
+Coloque aquí un histórico de entrenamiento si dispone de datos reales de abandono.
+
+Debe contener:
+- porcentaje_asistencia
+- promedio_notas
+- abandono
+
+La columna abandono debe identificar casos que abandonaron y casos que no abandonaron.

@@ -1,0 +1,4 @@
+id_estudiante,grado,porcentaje_asistencia,promedio_notas,trabajo_infantil,migracion,embarazo_adolescente,pobreza,vive_lejos,bullying
+EST001,6,92,8.2,0,0,0,0,0,0
+EST002,8,74,5.1,1,0,0,1,1,0
+EST003,Bachillerato 1,81,6.3,0,1,0,0,0,1
