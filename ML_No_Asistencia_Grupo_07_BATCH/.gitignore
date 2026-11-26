@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Datos de estudiantes y salidas locales
+data/entrada/*
+!data/entrada/COLOQUE_AQUI_EL_EXCEL.txt
+data/entrenamiento/*
+!data/entrenamiento/COLOQUE_AQUI_EL_HISTORICO.txt
+outputs/*
+!outputs/.gitkeep
+models/*.joblib
+models/*.json
+reports/training/*

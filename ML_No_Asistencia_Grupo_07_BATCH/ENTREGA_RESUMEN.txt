@@ -1,0 +1,23 @@
+VERSION ACTUALIZADA — ANALISIS MASIVO DE SALON
+
+Cambios principales:
+1. Los campos vacios se consideran INFORMACION_INSUFICIENTE.
+2. Una respuesta NO es valida y no se considera vacia.
+3. Si falta asistencia o promedio de notas, el estudiante no recibe un nivel BAJO/MEDIO/ALTO.
+4. El sistema identifica exactamente los campos sin informacion.
+5. El checklist incompleto se mantiene como diagnostico parcial y no se convierte en NO.
+6. El entrenamiento oficial integra GridSearchCV, modelos avanzados, VotingClassifier y calibracion.
+7. Se generan metricas CV y prueba final, PR-AUC, Brier Score, matriz de confusion y calibracion.
+8. Si existe fecha_corte valida, se intenta una separacion temporal.
+9. Fairness dispone de reporte por grupo mediante evaluar_fairness.py.
+10. La interfaz muestra todas las medidas preventivas de un estudiante de una sola vez.
+11. Se puede descargar un DOCX combinado con todas las medidas.
+12. Los documentos de medidas siguen siendo reemplazables desde sus carpetas.
+13. Se agrega Dockerfile para facilitar despliegue web.
+14. Se documentan limites, privacidad y uso responsable.
+15. La plantilla historica incluida es sintetica y solo sirve para demostrar el flujo tecnico.
+
+CORRECCION 25/11/2026
+- Corregida la serializacion de la tabla de criterios en Streamlit: la fila TOTAL ya no mezcla texto y enteros en la columna peso; ahora utiliza valor nulo numerico.
+- Actualizado Streamlit para usar width="stretch" en lugar de use_container_width=True.
+- Pruebas automatizadas: 11 passed.

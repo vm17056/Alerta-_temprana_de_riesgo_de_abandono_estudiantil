@@ -1,0 +1,15 @@
+﻿variable,tipo,descripcion,unidad
+departamento,object,Departamento de residencia.,Categoría
+municipio,object,Municipio de residencia.,Categoría
+distrito,object,Distrito de residencia.,Categoría
+grupo_etario,object,Grupo quinquenal de edad.,Categoría
+ha_asistido_hombres,float64,Hombres que actualmente asisten o asistieron alguna vez.,Personas
+ha_asistido_mujeres,float64,Mujeres que actualmente asisten o asistieron alguna vez.,Personas
+ha_asistido_total,float64,Total que actualmente asiste o asistió alguna vez.,Personas
+nunca_asistio_hombres,float64,Hombres que nunca asistieron a educación formal.,Personas
+nunca_asistio_mujeres,float64,Mujeres que nunca asistieron a educación formal.,Personas
+nunca_asistio_total,float64,Total que nunca asistió a educación formal.,Personas
+no_sabe_hombres,float64,Hombres clasificados como no sabe.,Personas
+no_sabe_mujeres,float64,Mujeres clasificadas como no sabe.,Personas
+no_sabe_total,float64,Total clasificado como no sabe.,Personas
+poblacion_total,float64,Población total de la fila agregada.,Personas

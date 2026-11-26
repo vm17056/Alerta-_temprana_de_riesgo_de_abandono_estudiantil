@@ -1,0 +1,15 @@
+﻿variable,nulos,unicos
+departamento,0,14
+municipio,0,44
+distrito,0,262
+grupo_etario,0,2
+ha_asistido_hombres,3,236
+ha_asistido_mujeres,2,231
+ha_asistido_total,1,305
+nunca_asistio_hombres,76,47
+nunca_asistio_mujeres,74,35
+nunca_asistio_total,39,64
+no_sabe_hombres,291,17
+no_sabe_mujeres,308,15
+no_sabe_total,215,26
+poblacion_total,0,311

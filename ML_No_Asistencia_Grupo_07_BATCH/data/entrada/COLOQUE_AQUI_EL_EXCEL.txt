@@ -1,0 +1,21 @@
+Coloque aquí el archivo Excel o CSV del salón que desea analizar.
+
+Columnas académicas obligatorias:
+- porcentaje_asistencia
+- promedio_notas
+
+Columnas sociales recomendadas:
+- trabajo_infantil
+- migracion
+- embarazo_adolescente
+- pobreza
+- bullying
+- repitencia_escolar
+- dificultades_aprendizaje
+- antecedentes_abandono_escolar
+- violencia_intrafamiliar
+- falta_transporte_accesible
+- distancia_vivienda_centro_educativo
+- limitaciones_conectividad_recursos_tecnologicos
+
+Si un factor no está disponible, use NO INFORMADO o déjelo vacío. El sistema no asumirá que el estudiante NO presenta ese factor.

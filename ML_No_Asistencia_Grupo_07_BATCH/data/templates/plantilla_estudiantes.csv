@@ -1,0 +1,9 @@
+﻿id_estudiante,grado,porcentaje_asistencia,promedio_notas,trabajo_infantil,migracion,embarazo_adolescente,pobreza,bullying,repitencia_escolar,dificultades_aprendizaje,antecedentes_abandono_escolar,violencia_intrafamiliar,falta_transporte_accesible,distancia_vivienda_centro_educativo,limitaciones_conectividad_recursos_tecnologicos
+E001,6to,96,8.8,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+E002,7mo,82,5.8,NO,NO,NO,SI,NO,NO,NO,NO,NO,NO,SI,NO
+E003,8vo,68,4.9,SI,NO,NO,SI,SI,NO,SI,NO,NO,SI,SI,SI
+E004,9no,75,6.4,NO,SI,NO,NO,NO,SI,NO,SI,NO,NO,SI,NO
+E005,1ro Bachillerato,90,7.2,NO,NO,NO,NO,SI,NO,NO,NO,NO,NO,NO,SI
+E006,2do Bachillerato,55,4.1,SI,SI,NO,SI,SI,SI,SI,SI,SI,SI,SI,SI
+E007,6to,88,7.8,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO
+E008,9no,63,5.2,NO,NO,NO,SI,SI,NO,NO,NO,SI,SI,SI,NO
